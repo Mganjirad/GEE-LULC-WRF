@@ -1,4 +1,4 @@
-# GEE-Based-Mapping-of-LULC
+# GEE-Based Mapping of LULC for WRF
 Land Use and Land Cover (LULC) map is a vital prerequisite and input of numerical weather prediction models. LULC is employed in these models to estimate the atmospheric variables, pollutant
 concentrations, and hydrological parameters. Thus, an accurate and up-to-date representation of
 land surface coverage is essential. In this regrade, this repository proposes a kind of framework based on the Google Earth Engine (GEE) cloud processing system 
